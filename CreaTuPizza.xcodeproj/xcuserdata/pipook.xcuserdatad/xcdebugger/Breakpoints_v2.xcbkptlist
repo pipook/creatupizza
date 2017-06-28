@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CreaTuPizza/VistaEtapas.swift"
+            timestampString = "520226422.880116"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "VistaEtapas"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CreaTuPizza.VistaEtapas.__deallocating_deinit"
+                  moduleName = "CreaTuPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pipook/Cursos/Desarrollo%20de%20Aplicaciones%20iOS/Interfaz%20de%20usuario%20en%20iOS/Semana%202/CreaTuPizza/CreaTuPizza/VistaEtapas.swift"
+                  timestampString = "520226424.13559"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CreaTuPizza.VistaEtapas.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CreaTuPizza.VistaEtapas"
+                  moduleName = "CreaTuPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pipook/Cursos/Desarrollo%20de%20Aplicaciones%20iOS/Interfaz%20de%20usuario%20en%20iOS/Semana%202/CreaTuPizza/CreaTuPizza/VistaEtapas.swift"
+                  timestampString = "520226424.145137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CreaTuPizza.VistaEtapas.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CreaTuPizza.VistaEtapas"
+                  moduleName = "CreaTuPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pipook/Cursos/Desarrollo%20de%20Aplicaciones%20iOS/Interfaz%20de%20usuario%20en%20iOS/Semana%202/CreaTuPizza/CreaTuPizza/VistaEtapas.swift"
+                  timestampString = "520226424.148317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CreaTuPizza.VistaEtapas.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CreaTuPizza.VistaEtapas&gt;"
+                  moduleName = "CreaTuPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pipook/Cursos/Desarrollo%20de%20Aplicaciones%20iOS/Interfaz%20de%20usuario%20en%20iOS/Semana%202/CreaTuPizza/CreaTuPizza/VistaEtapas.swift"
+                  timestampString = "520226424.150828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CreaTuPizza.VistaEtapas.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CreaTuPizza.VistaEtapas&gt;"
+                  moduleName = "CreaTuPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pipook/Cursos/Desarrollo%20de%20Aplicaciones%20iOS/Interfaz%20de%20usuario%20en%20iOS/Semana%202/CreaTuPizza/CreaTuPizza/VistaEtapas.swift"
+                  timestampString = "520226424.152919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CreaTuPizza/VistaEtapas.swift"
+            timestampString = "520353659.454593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "confirmarPizza(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CreaTuPizza/VistaEtapas.swift"
+            timestampString = "520353659.454593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "confirmarPizza(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
